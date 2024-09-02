@@ -1,33 +1,29 @@
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SankalpYaduvanshi.SankalpYaduvanshi" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=techenthusiast321.techenthusiast321" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sankalp+Yaduvanshi!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pranjal+Arya!;" />
 </h1>
 
-<h3 align="center">A passionate software developer, web-developer, game-developer and poster designer from India</h3>
+<h3 align="center">A passionate software developer, web-developer from India</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **landing-page**
- 
- 🌱 I’m currently learning **Data Analysis**
+ 🌱 I’m currently learning **Data Structures**
 
- 📚 Creating Designs at **My Club**
-
- 💬 Ask me about **Python, Web-development... or anything here**
+ 💬 Ask me about **DSA, Web-development... or anything here**
 
  ⚡ Fun fact **World's first developer was a woman**
  
  </div>
  
 <div align="center"> 
-  <a href="mailto:SankalpYaduvanshi@icloud.com">
+  <a href="mailto:pranjalkrk@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/sankalp-yaduvanshi-395745298" target="_blank">
+  <a href="https://www.linkedin.com/in/pranjaltechie492/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://github.com/techenthusiast321" target="_blank">
